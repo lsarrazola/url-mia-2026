@@ -1,0 +1,14 @@
+/Users/samanthaarrazola/MIA_Lab_5/project/Lab5/bin/Debug/net9.0/Lab5
+/Users/samanthaarrazola/MIA_Lab_5/project/Lab5/bin/Debug/net9.0/Lab5.deps.json
+/Users/samanthaarrazola/MIA_Lab_5/project/Lab5/bin/Debug/net9.0/Lab5.runtimeconfig.json
+/Users/samanthaarrazola/MIA_Lab_5/project/Lab5/bin/Debug/net9.0/Lab5.dll
+/Users/samanthaarrazola/MIA_Lab_5/project/Lab5/bin/Debug/net9.0/Lab5.pdb
+/Users/samanthaarrazola/MIA_Lab_5/project/Lab5/obj/Debug/net9.0/Lab5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samanthaarrazola/MIA_Lab_5/project/Lab5/obj/Debug/net9.0/Lab5.AssemblyInfoInputs.cache
+/Users/samanthaarrazola/MIA_Lab_5/project/Lab5/obj/Debug/net9.0/Lab5.AssemblyInfo.cs
+/Users/samanthaarrazola/MIA_Lab_5/project/Lab5/obj/Debug/net9.0/Lab5.csproj.CoreCompileInputs.cache
+/Users/samanthaarrazola/MIA_Lab_5/project/Lab5/obj/Debug/net9.0/Lab5.dll
+/Users/samanthaarrazola/MIA_Lab_5/project/Lab5/obj/Debug/net9.0/refint/Lab5.dll
+/Users/samanthaarrazola/MIA_Lab_5/project/Lab5/obj/Debug/net9.0/Lab5.pdb
+/Users/samanthaarrazola/MIA_Lab_5/project/Lab5/obj/Debug/net9.0/Lab5.genruntimeconfig.cache
+/Users/samanthaarrazola/MIA_Lab_5/project/Lab5/obj/Debug/net9.0/ref/Lab5.dll
