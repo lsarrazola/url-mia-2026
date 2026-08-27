@@ -1,0 +1,5 @@
+1. git clone
+2. git checkout
+3. git branch
+4. git add
+5. git commit

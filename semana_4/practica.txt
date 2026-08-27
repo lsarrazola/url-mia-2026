@@ -1,0 +1,8 @@
+¿Qué es Git?
+Git es una herramienta de control de versiones que permite registrar los cambios realizados en los archivos de un proyecto. También ayuda a trabajar con ramas y recuperar versiones anteriores.
+
+¿Qué es GitLab?
+GitLab es una plataforma en línea que permite almacenar repositorios Git, colaborar con otras personas y crear Merge Requests para revisar cambios.
+
+¿Cuál es la diferencia entre Git y GitLab?
+Git es la herramienta que controla las versiones de los archivos en la computadora. GitLab es la plataforma web donde se publica y administra el repositorio.
