@@ -1,0 +1,24 @@
+ACTIVIDAD: SSH Y REPOSITORIOS DE GITHUB
+
+1. Se verificó la existencia de una clave SSH ED25519 en el equipo.
+2. Se inició ssh-agent y se cargó la clave privada.
+3. Se verificó el fingerprint ED25519 oficial de GitHub.
+4. La clave pública fue registrada en la cuenta de GitHub.
+5. La autenticación SSH fue exitosa:
+
+Hi lsarrazola! You've successfully authenticated, but GitHub does not provide shell access.
+
+6. El repositorio existente url-mia-2026 fue configurado para usar SSH sin volver a clonarlo.
+
+Remote configurado:
+git@github.com:lsarrazola/url-mia-2026.git
+
+7. Se comprobó la conexión con:
+
+git fetch origin
+
+Resultado:
+La comunicación con GitHub mediante SSH funcionó correctamente.
+
+NOTA:
+No se realizó un nuevo git clone porque el repositorio ya existía localmente y se evitó crear una copia innecesaria.
