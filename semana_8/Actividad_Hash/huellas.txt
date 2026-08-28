@@ -1,0 +1,29 @@
+===== SHA256 =====
+
+Algorithm       Hash                                                                   P
+                                                                                       a
+                                                                                       t
+                                                                                       h
+---------       ----                                                                   -
+SHA256          B9CB226DECD881E853EFB3DCBF530032CC57BBB565FD7EAFC09D903BED444D3C       /
+
+
+===== SHA1 =====
+
+Algorithm       Hash                                                                   P
+                                                                                       a
+                                                                                       t
+                                                                                       h
+---------       ----                                                                   -
+SHA1            6C43E08FFE69F8B50BECAB7CD456017E6FD76683                               /
+
+
+===== MD5 =====
+
+Algorithm       Hash                                                                   P
+                                                                                       a
+                                                                                       t
+                                                                                       h
+---------       ----                                                                   -
+MD5             13A3FD8E1DEF6FDD7F767B1A00C43842                                       /
+
