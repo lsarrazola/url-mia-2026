@@ -1,0 +1,5 @@
+Producto,Cantidad,Precio
+Teclado,15,250
+Mouse,25,125
+Monitor,8,1750
+Memoria USB,30,85

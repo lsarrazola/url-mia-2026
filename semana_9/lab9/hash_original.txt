@@ -1,0 +1,5 @@
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          037F61F239998C8BF2E1C9D7A2BF416B91910C1D628780A7CB3F88E4B0B79724       /Users/samanthaarrazola/Documents/Cua…
+
