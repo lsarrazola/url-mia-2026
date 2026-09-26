@@ -1,0 +1,12 @@
+# Compilación de .NET
+bin/
+obj/
+
+# macOS
+.DS_Store
+
+# Archivos de entorno y secretos
+.env
+.env.*
+secrets.json
+appsettings.Local.json
