@@ -1,5 +1,8 @@
 using Azure.Storage.Blobs;
 using Azure.Storage.Blobs.Models;
+using DotNetEnv;
+
+Env.Load();
 
 string? connectionString =
     Environment.GetEnvironmentVariable("AZURE_STORAGE_CONNECTION_STRING");
